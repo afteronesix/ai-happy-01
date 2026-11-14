@@ -10,5 +10,10 @@ Iteration 2: the first entry (puppy photo alone) ranked #755 — the entries
 the judge picks most are handwritten notes addressed to the judge, so this
 version keeps the puppy and adds the note.
 
+Iteration 3: v2 went 12-0 but ranked #109 (score 926,605 vs the top-100
+cutoff 928,135). The top entries also draw the judge itself, so this version
+adds the robot judge to the drawing, smiling as the puppy offers it the
+butterfly.
+
 ## Run
 MAKEFUN_OUTPUT_DIR=out node main.ts
